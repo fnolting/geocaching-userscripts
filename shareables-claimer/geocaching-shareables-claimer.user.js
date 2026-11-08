@@ -60,7 +60,7 @@
         HEADER_ICON_FALLBACK: '🎁', // wird angezeigt, falls das Icon nicht geladen werden kann
         STYLE_HEADER_ITEM:
             'display:inline-flex;align-items:center;align-self:center;vertical-align:middle;' +
-            'height:100%;margin:0 8px;padding:0;list-style:none;',
+            'padding:0;list-style:none;',
         STYLE_HEADER_BUTTON:
             'display:inline-flex;align-items:center;justify-content:center;margin:0;padding:4px;' +
             'border:0;border-radius:4px;background:transparent;line-height:1;font-size:20px;' +
